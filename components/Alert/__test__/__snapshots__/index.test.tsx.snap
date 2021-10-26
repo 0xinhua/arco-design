@@ -28,6 +28,11 @@ exports[`ConfigProvider componentConfig.Alert default 1`] = `
   <div
     class="arco-alert-content-wrapper"
   />
+  <div
+    class="arco-alert-action"
+  >
+    1212
+  </div>
 </div>
 `;
 
@@ -59,6 +64,11 @@ exports[`ConfigProvider componentConfig.Alert set className globally 1`] = `
   <div
     class="arco-alert-content-wrapper"
   />
+  <div
+    class="arco-alert-action"
+  >
+    1212
+  </div>
 </div>
 `;
 
@@ -90,5 +100,10 @@ exports[`ConfigProvider componentConfig.Alert set className globally and compone
   <div
     class="arco-alert-content-wrapper"
   />
+  <div
+    class="arco-alert-action"
+  >
+    1212
+  </div>
 </div>
 `;
